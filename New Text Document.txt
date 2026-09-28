@@ -9,3 +9,5 @@ New-Item index.html -ItemType File
     </body>
 </html>
 ---------------------------------------
+git add.
+git commit -m "first commit"
